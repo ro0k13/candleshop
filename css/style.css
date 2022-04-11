@@ -118,6 +118,7 @@ body{
 }
 
 .tutorials-image__text a{
+    margin-top: 7rem;
     background-color: #2b211fb4;
     border: 4px solid #2b211f;
     color: #95949a;        
